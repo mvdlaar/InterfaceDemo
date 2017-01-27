@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfaceDemoLibrary
+namespace InterfaceDemoLibrary.Sub
 {
-    public class Class1
+    interface IRijden2
     {
+        void Rijden();
     }
 }
